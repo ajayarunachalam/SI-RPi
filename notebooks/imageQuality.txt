@@ -1,0 +1,3 @@
+https://towardsdatascience.com/automatic-image-quality-assessment-in-python-391a6be52c11
+
+https://www.learnopencv.com/image-quality-assessment-brisque/

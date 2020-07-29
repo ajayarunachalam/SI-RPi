@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name[en_US]=DATA_AQUISTION
+Name=MSI-RPi
+Exec=/home/pi/Si-RPi/updated_latest_camera_automation_V1/RUN.sh
+Icon=/home/pi/Si-RPi/updated_latest_camera_automation_V1/LOGO.png
