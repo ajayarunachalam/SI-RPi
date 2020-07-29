@@ -5,7 +5,8 @@ The general overall flow to be followed to get started is as follows:-
 
 The Multi-Spectral image acquistion scripts are placed in the folder updated_latest_camera_automation_V1/
 
-  1) Run the "DATA_AQUISTION.desktop" application to launch the program, alternately you can also run the shell script "RUN.sh" to launch the program. 
+  1) Click on the "DATA_AQUISTION.desktop" icon to launch the application. 
+     Alternately, you can also run the shell script "RUN.sh" on the terminal to launch the program as "sudo bash Run.sh" 
      The images will be acquired from 8am - 6pm with an logging interval of every 30 minutes. This can be changed as per desired in the provided automation script.
      The spectral band images are stored in the folder image/ with the naming conventions as following:-
      
